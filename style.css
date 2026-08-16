@@ -55,3 +55,8 @@ h1 {
   font-size: 1.1rem;
   min-height: 1.5em;
 }
+
+.best {
+  color: #a0a3b1;
+  font-size: 0.95rem;
+}
